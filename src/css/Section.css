@@ -1,0 +1,136 @@
+.hero {
+    grid-column-start: 1;
+    grid-column-end: 13;
+    grid-row-start: 1;
+    grid-row-end: 2;
+}
+
+.space {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    grid-column-start: 1;
+    grid-column-end: 13;
+    grid-row-start: 2;
+    grid-row-end: 3;
+}
+
+.ozone {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    grid-column-start: 1;
+    grid-column-end: 13;
+    grid-row-start: 3;
+    grid-row-end: 4;
+}
+
+.pollution {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    grid-column-start: 1;
+    grid-column-end: 13;
+    grid-row-start: 4;
+    grid-row-end: 5;
+}
+
+.mountains {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start !important;
+    grid-column-start: 1;
+    grid-column-end: 13;
+    grid-row-start: 5;
+    grid-row-end: 6;
+}
+
+.weather {
+    grid-column-start: 1;
+    grid-column-end: 13;
+    grid-row-start: 6;
+    grid-row-end: 7;
+    display: flex;
+    justify-content: center;
+}
+
+.animals {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    grid-column-start: 1;
+    grid-column-end: 13;
+    grid-row-start: 7;
+    grid-row-end: 8;
+}
+
+.ice {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    grid-column-start: 1;
+    grid-column-end: 13;
+    grid-row-start: 8;
+    grid-row-end: 9;
+}
+
+.plastic {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    grid-column-start: 1;
+    grid-column-end: 13;
+    grid-row-start: 9;
+    grid-row-end: 10;
+}
+
+.time {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    grid-column-start: 1;
+    grid-column-end: 13;
+    grid-row-start: 10;
+    grid-row-end: 11;
+    background-color: rgb(36, 37, 46);
+    background-image: url("https://wallpapercave.com/wp/wp6604674.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.help1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    grid-column-start: 1;
+    grid-column-end: 13;
+    grid-row-start: 11;
+    grid-row-end: 12;
+    background-color: rgb(36, 37, 46);
+    background-image: url("https://wallpapercave.com/wp/wp4617593.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+
+.team {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    grid-column-start: 1;
+    grid-column-end: 13;
+    grid-row-start: 12;
+    grid-row-end: 13;
+}
+
+div#fp-nav ul li .fp-tooltip {
+  color: #12131D
+}
+
+.fp-viewing-0 #fp-nav ul li a span, .fp-viewing-1 #fp-nav ul li a span, .fp-viewing-2 #fp-nav ul li a span, .fp-viewing-8 #fp-nav ul li a span, .fp-viewing-9 #fp-nav ul li a span, .fp-viewing-10 #fp-nav ul li a span, .fp-viewing-11 #fp-nav ul li a span{
+     background: white;
+}
+
+.fp-viewing-0  #fp-nav ul li .fp-tooltip, .fp-viewing-1  #fp-nav ul li .fp-tooltip, .fp-viewing-2 #fp-nav ul li .fp-tooltip, .fp-viewing-8 #fp-nav ul li .fp-tooltip, .fp-viewing-9 #fp-nav ul li .fp-tooltip, .fp-viewing-10 #fp-nav ul li .fp-tooltip, .fp-viewing-11 #fp-nav ul li .fp-tooltip{
+     color: white;
+}

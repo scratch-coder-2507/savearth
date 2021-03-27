@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family: 'Baloo Bhaijaan';
+    font-style: normal;
+    font-weight: normal;
+    src: url('./Fonts/Baloo_Bhaijaan/BalooBhaijaan-Regular.ttf') format('truetype');
+}
+
+.App {
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    grid-template-rows: repeat(11, 100vh);
+}

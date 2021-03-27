@@ -1,0 +1,79 @@
+[
+    {
+        "id": 0,
+        "section": "space",
+        "link": "https://www.br.de/themen/wissen/weltraumschrott-satelliten-bruchstuecke-100.html",
+        "name": "Bayerischer Rundfunk",
+        "date": "21.01.2020"
+    },
+    {
+        "id": 1,
+        "section": "ozone",
+        "link": "https://www.planet-wissen.de/natur/klima/klimawandel/pwieozon100.html",
+        "name": "planet-wissen",
+        "date": "21.01.2020"
+    },
+    {
+        "id": 2,
+        "section": "pollution",
+        "link": "https://www.klimaschutz-portal.aero/klimakiller-nr-1/",
+        "name": "Klimaschutz Portal",
+        "date": "21.01.2020"
+    },
+    {
+        "id": 3,
+        "section": "mountains",
+        "link": "https://www.planet-wissen.de/natur/klima/gletscher/pwiegletscherschmelze100.html",
+        "name": "Planet Wissen",
+        "date": "21.01.2020"
+    },
+    {
+        "id": 4,
+        "section": "animals",
+        "link": "https://www.wwf.at/de/bedrohte-arten-durch-klimawandel/",
+        "name": "WWF",
+        "date": "21.01.2020"
+    },
+    {
+        "id": 5,
+        "section": "ice",
+        "link": "https://www.br.de/klimawandel/meeresspiegel-steigt-klimawandel-meer-eis-eisschmelze-pole-100.html",
+        "name": "Bayerischer Rundfunk",
+        "date": "21.01.2020"
+    },
+    {
+        "id": 6,
+        "section": "fish",
+        "link": "https://www.global2000.at/plastik-im-meer",
+        "name": "Global 2000",
+        "date": "21.01.2020"
+    },
+    {
+        "id": 6,
+        "section": "coral",
+        "link": "https://www.haz.de/Nachrichten/Wissen/Uebersicht/Bedrohte-Riffe-Klimawandel-verursacht-Korallensterben",
+        "name": "Hannoversche Allgemeine Zeitung",
+        "date": "21.01.2020"
+    },
+    {
+        "id": 7,
+        "section": "summary",
+        "link": "https://www.indexmundi.com/world/birth_rate.html",
+        "name": "Index Mundi",
+        "date": "21.01.2020"
+    },
+    {
+        "id": 8,
+        "section": "summary",
+        "link": "https://thinkglobalgreen.org/forests/",
+        "name": "Think Global Green",
+        "date": "21.01.2020"
+    },
+    {
+        "id": 9,
+        "section": "summary",
+        "link": "https://www.earthday.org/fact-sheet-plastics-in-the-ocean/",
+        "name": "Earthday",
+        "date": "21.01.2020"
+    }
+]

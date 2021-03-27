@@ -1,0 +1,15 @@
+.social-links {
+    align-items: center;
+    color: white;
+    height: 30px;
+    transition: all 130ms;
+    padding-top: 50px;
+    margin-right: 940px;
+}
+
+.social-links > a > img {
+    height: 45px;
+    transform: scale(1.04);
+    padding: 5px;
+    margin-left: 7px;
+}

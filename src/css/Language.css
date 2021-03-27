@@ -1,0 +1,19 @@
+.lang-toggle {
+    z-index: 999;
+    display: flex;
+    position: absolute;
+    top: 24px;
+    width: 100vw;
+    justify-content: flex-end;
+    padding-right: 24px;
+}
+
+.lang-option:hover {
+    cursor: pointer;
+}
+
+.lang-toggle img {
+    margin-left: 32px;
+    width: 24px;
+    height: auto;
+}

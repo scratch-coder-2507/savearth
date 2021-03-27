@@ -1,0 +1,27 @@
+.quote-container {
+    width: 55vw;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+
+.quote {
+    display: none;
+    height: 200px;
+    line-height: 1.25;
+}
+
+.activeQuote {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.quote-text {
+    font-size: 24px;
+    margin-bottom: 24px;
+    font-weight: 400;
+}
+
+.quote-person {
+    align-self: flex-end;
+    font-weight: 300;
+}

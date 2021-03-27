@@ -1,0 +1,20 @@
+[
+    {
+        "id": 0,
+        "img" : "monkey",
+        "name": "MONKEYTITLE",
+        "text": "MONKEYTEXT"
+    },
+    {
+        "id": 1,
+        "img" : "whale",
+        "name": "WHALETITLE",
+        "text": "WHALETEXT"
+    },
+    {
+        "id": 2,
+        "img" : "panda",
+        "name": "PANDATITLE",
+        "text": "PANDATEXT"
+    }
+]

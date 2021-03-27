@@ -1,0 +1,26 @@
+.mountains h1 {
+    display: none;
+}
+
+.mountains .text {
+    z-index: 999;
+    position: absolute;
+    color: #12131D;
+    align-self: center;
+    width: 30vw;
+    left: 60vw;
+    line-height: 1.6;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 20px;
+    font-weight: 200;
+    vertical-align: center;
+}
+
+.mountains .text p strong {
+    font-weight: 500;
+}
+
+.mountains .video {
+    align-self: flex-end;
+    width: 60vw;
+}
